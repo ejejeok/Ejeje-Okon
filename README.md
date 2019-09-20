@@ -1,2 +1,4 @@
-# Ejeje-Portfolio
-This is a portfolio created by me, wish will accommodate detail information about me and my coding career
+# Ejeje-Okon
+I have great passion for codin, i enjoy programming.
+always interesting in creating new things, i love reative design
+i'm teachable and very flexible to change.
